@@ -1,7 +1,7 @@
 
 Timeline: 
 
-* Drug Gene Interaction database (DGIdb)
+* [Drug Gene Interaction database (DGIdb)](http://www.dgidb.org/): drug-gene interactions and the druggable genome, mined from over thirty trusted sources. 
 
 * [DrugBank (1572 Drugs)](http://www.drugbank.ca/downloads):includes external identifiers: CAS, UniProt, PhamGKB, TTD
 
