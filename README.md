@@ -15,3 +15,4 @@ Timeline:
 Reference: 
 
 * Mutation hotspots may not be drug targets: https://science.sciencemag.org/content/364/6447/1228
+* Targeting transcription factors: https://www.nature.com/articles/nrd.2018.231
