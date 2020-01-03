@@ -5,7 +5,7 @@ Timeline:
 
 * [DrugBank (1572 Drugs)] (http://www.drugbank.ca/downloads):includes external identifiers: CAS, UniProt, PhamGKB, TTD
 
-* [TTD: Therapeutic Target Database (3199 Drugs)](http://bidd.nus.edu.sg/group/cjttd/TTD_Download.asp) includes many synonyms!
+* [TTD (3199 Drugs)](http://bidd.nus.edu.sg/group/cjttd/TTD_Download.asp): Therapeutic Target Database, includes many synonyms!
 
 * [PhamGKB (1885 Drugs)](http://www.pharmgkb.org/resources/downloads_and_web_services.jsp): use genes.tsv, drugs.tsv, relationships.tsv. There is the option to get genotype-SNV linking directly to drug, with requested license.
 
