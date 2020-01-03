@@ -1,4 +1,3 @@
-gene_name
 CDK7
 ADORA2A
 FGFR2
