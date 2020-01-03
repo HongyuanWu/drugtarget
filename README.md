@@ -3,7 +3,7 @@ Timeline:
 
 * Drug Gene Interaction database (DGIdb)
 
-* [DrugBank (1572 Drugs)] (http://www.drugbank.ca/downloads):includes external identifiers: CAS, UniProt, PhamGKB, TTD
+* [DrugBank (1572 Drugs)](http://www.drugbank.ca/downloads):includes external identifiers: CAS, UniProt, PhamGKB, TTD
 
 * [TTD (3199 Drugs)](http://bidd.nus.edu.sg/group/cjttd/TTD_Download.asp): Therapeutic Target Database, includes many synonyms!
 
