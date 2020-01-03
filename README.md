@@ -14,4 +14,4 @@ Timeline:
 
 Reference: 
 
-Mutation hotspots may not be drug targets: https://science.sciencemag.org/content/364/6447/1228
+* Mutation hotspots may not be drug targets: https://science.sciencemag.org/content/364/6447/1228
