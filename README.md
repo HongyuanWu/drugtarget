@@ -1,7 +1,7 @@
 
 Timeline: 
 
-* [165](extdata/pancancer.drugtarget.pick.rnaseq.dmg.smdos.hr.pick.csv) interesting cancer targets were identified with diff-exp and survival analyisis qith 112 upregulated and 53 down-regulated. 
+* [165](extdata/pancancer.drugtarget.pick.rnaseq.dmg.smdos.hr.pick.csv) interesting cancer targets were identified with diff-exp and survival analyisis qith 112 up and 53 down-regulated. 
 
 * top [80 most signficant](extdata/tcgaDgeMeta/image/) differential expression genes with code: `subset(rlt,abs(beta)>1 & pval<10^-12)`
 
