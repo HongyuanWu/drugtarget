@@ -1,7 +1,7 @@
 
 Timeline: 
 
-* data were saved in ``
+* data were saved in `/home/guosa/hpc/meta` and `/home/guosa/hpc/meta/drug` as well as `/home/guosa/hpc/meta/tfbs`
 
 * [165](extdata/pancancer.drugtarget.pick.rnaseq.dmg.smdos.hr.pick.csv) interesting cancer targets were identified with diff-exp and survival analyisis qith [112](./extdata/pancancer.drugtarget.112upregulated.pick.rnaseq.dmg.smdos.hr.pick.csv) up and [53](./extdata/pancancer.drugtarget.53downregulated.pick.rnaseq.dmg.smd","os.hr.pick.csv) down-regulated. 
 
