@@ -1,6 +1,8 @@
 
 Timeline: 
 
+* [165](extdata/pancancer.drugtarget.pick.rnaseq.dmg.smdos.hr.pick.csv) interesting cancer targets were identified with differential gene expression and survival analyisis
+
 * top [80 most signficant](extdata/tcgaDgeMeta/image/) differential expression genes with code: `subset(rlt,abs(beta)>1 & pval<10^-12)`
 
 * [Drug Gene Interaction database (DGIdb)](http://www.dgidb.org/): drug-gene interactions and the druggable genome, [free download](http://www.dgidb.org/downloads)
